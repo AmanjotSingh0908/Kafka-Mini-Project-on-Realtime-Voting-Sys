@@ -1,0 +1,104 @@
+# created by virtualenv automatically
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# PostgreSQL JDBC driver (not needed for source control)
+*.jar
+
+# Checkpoint data (Kafka, Spark)
+checkpoints/
+
+# Docker files
+docker-compose.yml
+
+# PyCharm files (if using PyCharm IDE)
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Log files
+*.log
+
+# Checkpoint data (Kafka, Spark)
+checkpoints/
+checkpoints/*
+
+
+# macOS system files
+.DS_Store
+
+# Coverage and test reports
+.coverage
+*.cover
+coverage.xml
+
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Environment variables
+.env
+*.env
+
+# MacOS files
+.DS_Store
+
