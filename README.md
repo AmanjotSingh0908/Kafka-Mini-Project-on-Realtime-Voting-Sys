@@ -32,6 +32,7 @@ The Real-time Voting Engineering project is designed to process and analyze real
 ### 6. **Miscellaneous**:
    - **Virtual Environment**: The project uses Python's `virtualenv` to manage dependencies.
    - **JDBC Driver**: PostgreSQL JDBC driver is included for database connectivity.
+     
 ![streaming data into kafka topic](https://github.com/user-attachments/assets/064c09e6-359d-4c24-9500-efe971d72732)
 ![Kaka voters topic](https://github.com/user-attachments/assets/a5bed4e2-869d-463f-ba25-1abc7f8679db)
 ![DockerContainers](https://github.com/user-attachments/assets/8ba041bc-b018-4adc-9097-3c18c998fb79)
@@ -40,5 +41,5 @@ The Real-time Voting Engineering project is designed to process and analyze real
 
 
 Reference Video :- https://www.youtube.com/watch?v=X-JnC9daQxE
-
+For any queries, feel free to contact me @Twitter - https://x.com/AmanjotSaini_
 
